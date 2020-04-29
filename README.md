@@ -1,5 +1,5 @@
 COURSERA WEB DEVELOPMENT ASSIGNMENTS
-1.MODULE 2 ASSIGNMENT https://david123-os.github.io/coursera-test/module2-solution/
+1.MODULE 2 ASSIGNMENT Click_to_view 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
